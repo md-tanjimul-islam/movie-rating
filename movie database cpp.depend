@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1742758168 source:f:\0 tanjimul personal\c practice files\movie database cpp\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<algorithm>
+

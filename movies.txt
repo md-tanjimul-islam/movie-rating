@@ -1,0 +1,50 @@
+Dune: Part Two,Denis Villeneuve,2024,8.5
+The Shawshank Redemption,Frank Darabont,1994,9.2​
+The Godfather,Francis Ford Coppola,1972,9.2​
+The Dark Knight,Christopher Nolan,2008,9.0​
+The Godfather: Part II,Francis Ford Coppola,1974,9.0​
+12 Angry Men,Sidney Lumet,1957,8.9​
+Schindler's List,Steven Spielberg,1993,8.9​
+The Lord of the Rings: The Return of the King,Peter Jackson,2003,8.9​
+Pulp Fiction,Quentin Tarantino,1994,8.8​
+The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,2001,8.8​
+The Good, the Bad and the Ugly,Sergio Leone,1966,8.8​
+Forrest Gump,Robert Zemeckis,1994,8.8​
+Fight Club,David Fincher,1999,8.8​
+Inception,Christopher Nolan,2010,8.7​
+The Lord of the Rings: The Two Towers,Peter Jackson,2002,8.7​
+Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,1980,8.7​
+The Matrix,The Wachowskis,1999,8.7​
+Goodfellas,Martin Scorsese,1990,8.7​
+One Flew Over the Cuckoo's Nest,Milos Forman,1975,8.6​
+Se7en,David Fincher,1995,8.6​
+Interstellar,Christopher Nolan,2014,8.6​
+City of God,Fernando Meirelles,2002,8.6​
+Spirited Away,Hayao Miyazaki,2001,8.6​
+Saving Private Ryan,Steven Spielberg,1998,8.6​
+The Green Mile,Frank Darabont,1999,8.6​
+Life Is Beautiful,Roberto Benigni,1997,8.6​
+The Silence of the Lambs,Jonathan Demme,1991,8.6​
+It's a Wonderful Life,Frank Capra,1946,8.6​
+Star Wars: Episode IV - A New Hope,George Lucas,1977,8.6​
+Parasite,Bong Joon Ho,2019,8.6​
+The Pianist,Roman Polanski,2002,8.5​
+Terminator 2: Judgment Day,James Cameron,1991,8.5​
+Back to the Future,Robert Zemeckis,1985,8.5​
+The Departed,Martin Scorsese,2006,8.5​
+Whiplash,Damien Chazelle,2014,8.5​
+Gladiator,Ridley Scott,2000,8.5​
+The Prestige,Christopher Nolan,2006,8.5​
+The Lion King,Roger Allers & Rob Minkoff,1994,8.5​
+Memento,Christopher Nolan,2000,8.5​
+Apocalypse Now,Francis Ford Coppola,1979,8.5​
+Alien,Ridley Scott,1979,8.5​
+American History X,Tony Kaye,1998,8.5​
+Léon: The Professional,Luc Besson,1994,8.5​
+The Usual Suspects,Bryan Singer,1995,8.5​
+Casablanca,Michael Curtiz,1942,8.5​
+The Intouchables,Olivier Nakache & Éric Toledano,2011,8.5​
+Cinema Paradiso,Giuseppe Tornatore,1988,8.5​
+Django Unchained,Quentin Tarantino,2012,8.5​
+Grave of the Fireflies,Isao Takahata,1988,8.5​
+Paths of Glory,Stanley Kubrick,1957,8.5​​
